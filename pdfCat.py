@@ -11,7 +11,7 @@ import datetime
 
 # parameters ===========================================================
 # where are the files: use /
-filePath = 'C:/Users/Zagreb/Documents/PythonProjects/PacketMaker/'
+filePath = 'C:/Users/xxxxx/Documents/PythonProjects/PacketMaker/'
 
 # names of the files. Make sure to include .pdf
 attachmentFileNames = [
