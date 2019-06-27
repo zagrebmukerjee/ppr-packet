@@ -1,4 +1,4 @@
-PdfFileMerger
+PyPDF2
 datetime
 python-docx
 comtypes
