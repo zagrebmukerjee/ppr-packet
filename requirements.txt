@@ -1,0 +1,4 @@
+PdfFileMerger
+datetime
+python-docx
+comtypes
