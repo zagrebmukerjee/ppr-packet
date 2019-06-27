@@ -22,8 +22,8 @@ attachmentFileNames = [
 	'DraftAndSupplement-Clean.pdf'
 ]
 
-authorNames = 'Leyla Tarhan and Talia Konkle'
-paperTitle = 'Sociality and Interaction Envelope Organize Visual Action Representations'
+authorNames = 'testAuthorNames'
+paperTitle = 'testTitle'
 
 #dates in YYYY, M, DD
 receivedDates = [
